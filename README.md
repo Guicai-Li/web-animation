@@ -98,4 +98,16 @@
 ## JavaScript Animation
 
 
+### GSAP
+
+- [**GreenSock教程**](https://ihatetomatoes.net/tags/greensock/)
+- [**GreenSock博客**](https://greensock.com/blog/)
+- [The Making of the CSS-Tricks Logo Easter Egg Animation](https://css-tricks.com/the-making-of-the-css-tricks-logo-easter-egg-animation/) by [@SARAH DRASNER](https://css-tricks.com/author/sdrasner/)
+- [Recreating the Google Logo Animation with SVG and GreenSock](https://css-tricks.com/recreating-the-google-logo-animation-with-svg-and-greensock/) by [@Petr Tichy](https://ihatetomatoes.net/)
+ 
+
+
+
+-----------------------------
+
 欢迎更多的同学参与到Web Animation的分享中来。
